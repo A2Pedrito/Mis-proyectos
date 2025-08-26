@@ -1,0 +1,16 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de Visual Studio / VS Code
+.vscode/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# Archivos de proyecto que no quieres subir
+*.csproj
+*.sln
+*.csproj.user
